@@ -1,0 +1,26 @@
+# PingTest
+
+Dota2 servers around the globe
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[width="15%"]
+|=======
+|*Region* |*Server Location*  | *IP Address*
+|US West |Washington, USA |192.69.96.1
+|US East |Sterling, USA |208.78.164.1
+|Europe West |Luxembourg |146.66.152.1
+|Europe East |Vienna, Austria |146.66.155.1
+|SE Asia |Singapore |103.28.54.1 - 103.10.124.1
+|South America |Brazil |209.197.29.1 - 209.197.25.1
+|Russia |Stockholm, Sweden |146.66.156.1
+|Australia |Syndey, Australia |103.10.125.1
+|South Africa |Cape Town |197.80.200.1 - 196.38.180.1
+|=======
+
+ENG
+~~~~
+image:http://i.imgur.com/nLvfng9.png[alt="ornekgorseleng"]
+
+TR
+~~
+image:http://i.imgur.com/gtZcJYI.png[alt="ornekgorseltr"]
